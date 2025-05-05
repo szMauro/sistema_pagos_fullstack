@@ -1,0 +1,10 @@
+mat-form-field {
+  display: block;
+}
+
+.pago-form {
+  width: 500px;
+  flex: auto;
+  align-content: center;
+  margin: auto;
+}
